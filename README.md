@@ -1,2 +1,2 @@
-# kanban
+# lab-agile-planning
 Test scrum
